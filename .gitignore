@@ -1,0 +1,11 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS files
+Thumbs.db
+Desktop.ini
